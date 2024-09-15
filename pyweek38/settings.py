@@ -1,0 +1,3 @@
+WINDOW_SIZE = (1200, 600)
+WINDOW_TITLE = 'Pyweek 38'
+FPS = 60

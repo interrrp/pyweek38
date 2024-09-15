@@ -7,6 +7,8 @@ name = "pypi"
 pygame-ce = "*"
 
 [dev-packages]
+ruff = "*"
+pyright = "*"
 
 [scripts]
 start = "python -m pyweek38"
